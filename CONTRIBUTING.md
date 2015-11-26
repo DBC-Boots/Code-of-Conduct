@@ -15,7 +15,7 @@ Here's a sample format
 
 ```md
 <!-- Be sure you use a "1.", so therefore if we re-order, we don't need to re-number everything  -->
-1. New point goes here
+1. **New point goes here** followed by sub point.
 ```
 
 ### Pull Request Guideline
