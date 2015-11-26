@@ -1,5 +1,7 @@
 # Code of Conduct
 
+Thanks for reading through our Code of Conduct. We love our community and don't want folks hating or thrashing around. This Code of Conduct applies to all of our repositories in this organization.
+
 1. **Be friendly and patient.** Be welcoming. We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
 
 1. **Be considerate.** Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
