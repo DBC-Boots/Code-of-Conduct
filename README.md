@@ -2,7 +2,11 @@
 
 Thanks for reading through our Code of Conduct. We love our community and don't want folks hating or thrashing around. This Code of Conduct applies to all of our repositories in this organization.
 
-1. **Be friendly and patient.** Be welcoming. We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+Our open source community strives to:
+
+1. **Be friendly and patient.** 
+ 
+1. **Be welcoming.** We strive to be a community that welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, colour, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
 
 1. **Be considerate.** Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we're a world-wide community, so you might not be communicating in someone else's primary language.
 
@@ -16,6 +20,9 @@ Violent threats or language directed against another person.
   * Personal insults, especially those using racist or sexist terms.
   * Unwelcome sexual attention.
   * Advocating for, or encouraging, any of the above behavior.
+
+1. **Try to understand why we disagree**: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of our community comes from its diversity, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+
 
 1. **Repeated harassment of others.** In general, if someone asks you to stop, then stop.
 When we disagree, try to understand why. Disagreements, both social and technical, happen all the time and Django is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of Django comes from its varied community, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere, rather offer to help resolving issues and to help learn from mistakes.
