@@ -22,5 +22,13 @@ When we disagree, try to understand why. Disagreements, both social and technica
 
 ## Code of Conduct Resources
 
+We stand on the shoulder of giants, or something to that extent. Check out these other awesome code of conducts.
+
 * [Django Code of Conduct](https://www.djangoproject.com/conduct/)
+* [Django Reporting of Misconduct](https://www.djangoproject.com/conduct/reporting/)
 * [Todo Group's Open Code of Conduct](https://github.com/todogroup/opencodeofconduct) - Available to use for events and conferences. Served by Jekyll.
+* [Python Diversity clause](https://www.python.org/community/diversity/)
+* [Ubuntu Code of Conduct](http://www.ubuntu.com/about/about-ubuntu/conduct)
+* [Contributor Covenant](http://contributor-covenant.org/)
+* [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/)
+* [Citizen Code of Conduct](http://citizencodeofconduct.org/)
